@@ -1,4 +1,4 @@
-![logo](assets/logoBG.png)
+![logo](../assets/logoBG.png)
 
 in development:
 - Requiem Client ( Minecraft )
