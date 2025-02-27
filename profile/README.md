@@ -14,7 +14,7 @@ Requiem Client is currently in active development. Features and enhancements are
 - [✅] Basic Cheat Modules (ESP, Aimbot, AutoClicker, etc.)
 - [✅] Config System
 - [✅] Keybind Customization
-- [ ] Enhanced Anti-Cheat Bypass
+- [      ] Enhanced Anti-Cheat Bypass
 
 ## 🤝 Contributing
 We welcome contributions! Feel free to submit issues, feature requests, or pull requests.
